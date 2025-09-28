@@ -22,7 +22,7 @@ Focus on cleaning, exploring, and preparing data for predictive modeling to impr
 ## Installation  
 To get started, clone this repository to your local machine: 
 ```bash
-git clone https://github.com/yourusername/TikTok-Claim-Classification-Analysis.git
+git clone https://github.com/yourusername/TikTok-Claim-Analysis.git
 ```
 
 Ensure you have the necessary dependencies installed:  
